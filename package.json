@@ -1,0 +1,11 @@
+{
+  "name": "plane-skill",
+  "version": "0.1.0",
+  "description": "Agent skill for reading and updating a Plane project board through the Plane REST API.",
+  "type": "module",
+  "keywords": ["omp", "agent-skills", "plane"],
+  "omp": {
+    "skills": ["./skills"]
+  },
+  "files": ["skills", "README.md"]
+}
